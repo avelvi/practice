@@ -34,4 +34,5 @@ After cloning repository locally all new features starts from <code>develop</cod
 
 11 - Create PR for merging changes in <code>main</code> branch and <code>develop</code> branch separately.
 
-Thanks
+Thanks. </br>
+Authors: [alexvoniroks](https://github.com/alexvoniroks), [Art-auto](https://github.com/Art-auto), [avelvi](https://github.com/avelvi)
